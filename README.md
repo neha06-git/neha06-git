@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neha06-git
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning React and React native
+- 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on frontend developer project
 - 📫 How to reach me with my gmail id nehaguta2000@gmail.com
 
