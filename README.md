@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend developer
 - 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on a frontend developer project
-- 📫 How to reach me with my mail id nehaguta2000@gmail.com
+- 📫 How to reach me with my mail id nehaagupta1806@gmail.com
 ## Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
