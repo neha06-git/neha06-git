@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @neha06-git
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning full stack development 
-- 💞️ I’m looking to collaborate on a frontend developer project
+- 🌱 I’m currently learning UI/UX
+- 💞️ I’m looking to collaborate on a UI/UX and frontend development projects 
 - 📫 How to reach me with my mail id nehaagupta1806@gmail.com
 ## Languages and tools
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
